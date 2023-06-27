@@ -1,0 +1,6 @@
+- game state
+ + board 
+ + chess pieces
+ + player
+
+ + promotion 
