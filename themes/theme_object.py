@@ -1,7 +1,7 @@
 import pygame
 from collections import defaultdict
 from typing import Literal, AnyStr, TypeVar
-from general.screen_object import WIN, all_elements
+from general.setup import WIN, all_elements
 
 _POSITION = Literal["manual", "auto"]
 _DISPLAY = Literal["normal", "flex"]

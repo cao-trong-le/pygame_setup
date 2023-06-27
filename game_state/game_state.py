@@ -1,5 +1,5 @@
 from objects import pygame, os, random, MovingObject, Object
-from general.screen_object import WIN, WIDTH, HEIGHT, all_elements
+from general.setup import WIN, WIDTH, HEIGHT, all_elements
 import copy
 from themes.mouse_cursor.mouse_object import MouseObject
 from themes.mouse_cursor.mouse_data import mouse_data

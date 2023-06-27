@@ -1,6 +1,6 @@
 import pygame
 # from player.generate_player import player_spaceship
-from general.screen_object import GameScreen
+from general.setup import GameScreen
 
 
 def main():
